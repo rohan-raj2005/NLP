@@ -294,3 +294,12 @@ function generateLocalPrediction(text) {
 function escapeHtml(str) {
   return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
+
+// Attach event handlers to window for inline HTML onclick compatibility
+if (typeof window !== 'undefined') {
+  window.switchTab = switchTab;
+  window.applyPreset = applyPreset;
+  window.clearInput = clearInput;
+  window.analyzeSingleText = analyzeSingleText;
+  window.loadSampleBatch = loadSampleBatch;
+}
