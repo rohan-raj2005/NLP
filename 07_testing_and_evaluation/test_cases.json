@@ -1,0 +1,66 @@
+[
+  {
+    "id": "TC_01",
+    "category": "Positive Feedback",
+    "input": "The professor explains complex algorithms with great clarity and patience.",
+    "expected_label": "Positive",
+    "expected_stress_max": 30,
+    "description": "Standard high-satisfaction teaching feedback"
+  },
+  {
+    "id": "TC_02",
+    "category": "High Stress / Panic",
+    "input": "I am having severe anxiety and panic attacks because of the upcoming final exam.",
+    "expected_label": "High Stress",
+    "expected_stress_min": 75,
+    "description": "Acute student mental distress requiring immediate intervention"
+  },
+  {
+    "id": "TC_03",
+    "category": "Workload Overload",
+    "input": "Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.",
+    "expected_label": "Overload",
+    "expected_stress_min": 60,
+    "description": "Excessive schedule compression and assignment volume"
+  },
+  {
+    "id": "TC_04",
+    "category": "Negation Handling (Positive)",
+    "input": "I am not stressed at all, the TA was super helpful and clarified everything.",
+    "expected_label": "Positive",
+    "expected_stress_max": 35,
+    "description": "Negated stress word ('not stressed') must map to Positive, not High Stress"
+  },
+  {
+    "id": "TC_05",
+    "category": "Negation Handling (Frustration)",
+    "input": "I am definitely not happy with the way this midterm was graded.",
+    "expected_label": "Frustration",
+    "expected_stress_min": 40,
+    "description": "Negated positive word ('not happy') must map to negative emotion"
+  },
+  {
+    "id": "TC_06",
+    "category": "Frustration",
+    "input": "Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",
+    "expected_label": "Frustration",
+    "expected_stress_min": 50,
+    "description": "Course administrative and grading friction"
+  },
+  {
+    "id": "TC_07",
+    "category": "Disengagement",
+    "input": "I have completely lost motivation and stopped attending lectures because nothing makes sense.",
+    "expected_label": "Disengagement",
+    "expected_stress_min": 35,
+    "description": "Academic detachment and apathy"
+  },
+  {
+    "id": "TC_08",
+    "category": "Neutral Logistics",
+    "input": "The course syllabus was distributed on the first day of class as scheduled.",
+    "expected_label": "Neutral",
+    "expected_stress_max": 45,
+    "description": "Factual administrative statement without emotion"
+  }
+]

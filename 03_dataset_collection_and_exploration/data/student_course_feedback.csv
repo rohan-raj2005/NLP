@@ -1,0 +1,601 @@
+evaluation_id,course_id,term,feedback_comment,primary_label,aspect_domain,stress_index
+EVAL_8001,DATA410,Summer 2026,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,20
+EVAL_8002,ENG102,Spring 2026,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8003,CS205,Fall 2025,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8004,CS101,Summer 2026,The online submission portal crashed right before the assignment deadline.,Frustration,Support,80
+EVAL_8005,CS205,Summer 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8006,CS101,Fall 2025,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8007,ENG102,Spring 2026,I am experiencing chest tightness and insomnia every time I think about my GPA.,High Stress,Mental Well-being,100
+EVAL_8008,CS101,Summer 2026,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,60
+EVAL_8009,ENG102,Spring 2026,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8010,PHYS150,Spring 2026,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,20
+EVAL_8011,CS205,Fall 2025,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8012,MATH301,Summer 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8013,CS205,Spring 2026,I cannot understand why the grading took four weeks without any updates.,Frustration,Support,80
+EVAL_8014,DATA410,Summer 2026,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8015,CS205,Fall 2025,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,60
+EVAL_8016,CS205,Fall 2025,The academic dread is so intense that I cannot concentrate on anything anymore.,High Stress,Mental Well-being,100
+EVAL_8017,PHYS150,Fall 2025,The constant pressure and harsh grading have completely destroyed my mental health this term.,High Stress,Mental Well-being,100
+EVAL_8018,CS101,Spring 2026,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,40
+EVAL_8019,ENG102,Fall 2025,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8020,CS101,Summer 2026,The teacher reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8021,PHYS150,Fall 2025,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8022,CS101,Fall 2025,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8023,PHYS150,Spring 2026,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8024,DATA410,Summer 2026,The midterm midterm covered chapters 1 through 5 of the textbook.,Neutral,Examination,60
+EVAL_8025,PHYS150,Fall 2025,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8026,DATA410,Spring 2026,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,20
+EVAL_8027,DATA410,Spring 2026,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8028,PHYS150,Summer 2026,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8029,CS205,Spring 2026,I am not happy with how disorganized the professor is with homework deadlines.,Frustration,Course Content,80
+EVAL_8030,PHYS150,Spring 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8031,DATA410,Summer 2026,I cannot understand why the grading took four weeks without any updates.,Frustration,Support,80
+EVAL_8032,PHYS150,Fall 2025,I cannot understand why the grading took four weeks without any updates.,Frustration,Support,80
+EVAL_8033,ENG102,Fall 2025,I am not happy with how disorganized the professor is with homework deadlines.,Frustration,Course Content,80
+EVAL_8034,PHYS150,Spring 2026,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8035,ENG102,Spring 2026,Lecture slides are just copied directly from the textbook with zero additional explanation.,Frustration,Teaching,60
+EVAL_8036,ENG102,Fall 2025,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,40
+EVAL_8037,ENG102,Summer 2026,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,20
+EVAL_8038,DATA410,Summer 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8039,CS205,Summer 2026,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Overload,Workload,80
+EVAL_8040,DATA410,Fall 2025,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8041,CS101,Spring 2026,Lecture slides are just copied directly from the textbook with zero additional explanation.,Frustration,Teaching,60
+EVAL_8042,PHYS150,Summer 2026,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,40
+EVAL_8043,ENG102,Spring 2026,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,40
+EVAL_8044,PHYS150,Summer 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8045,PHYS150,Summer 2026,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Overload,Workload,100
+EVAL_8046,CS101,Summer 2026,The professor reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8047,ENG102,Spring 2026,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,20
+EVAL_8048,CS101,Summer 2026,The online submission portal crashed right before the assignment deadline.,Frustration,Support,80
+EVAL_8049,CS205,Spring 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8050,CS205,Fall 2025,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,40
+EVAL_8051,CS101,Fall 2025,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8052,DATA410,Spring 2026,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Overload,Workload,100
+EVAL_8053,CS101,Fall 2025,We are assigned new complex chapters right during midterms week with no extension.,Overload,Workload,80
+EVAL_8054,DATA410,Spring 2026,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8055,CS205,Summer 2026,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8056,CS101,Fall 2025,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Overload,Workload,100
+EVAL_8057,DATA410,Fall 2025,Lab equipment is outdated and half the software licenses are expired.,Frustration,Lab Work,60
+EVAL_8058,PHYS150,Fall 2025,The academic dread is so intense that I cannot concentrate on anything anymore.,High Stress,Mental Well-being,100
+EVAL_8059,CS101,Spring 2026,Confusing instructions on the final project caused our entire group to lose points unfairly.,Frustration,Course Content,80
+EVAL_8060,DATA410,Spring 2026,The workload in this 3-credit course feels like a full-time 12-credit program.,Overload,Workload,100
+EVAL_8061,PHYS150,Fall 2025,There is no practice midterm provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8062,MATH301,Fall 2025,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8063,ENG102,Fall 2025,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,20
+EVAL_8064,CS205,Spring 2026,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8065,CS101,Spring 2026,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,60
+EVAL_8066,CS101,Fall 2025,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,40
+EVAL_8067,MATH301,Spring 2026,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8068,PHYS150,Spring 2026,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8069,DATA410,Summer 2026,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8070,ENG102,Spring 2026,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8071,ENG102,Summer 2026,I am having severe anxiety and panic attacks because of the upcoming final exam.,High Stress,Mental Well-being,100
+EVAL_8072,MATH301,Summer 2026,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8073,MATH301,Spring 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8074,CS205,Spring 2026,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,20
+EVAL_8075,CS205,Summer 2026,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,20
+EVAL_8076,DATA410,Summer 2026,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,20
+EVAL_8077,PHYS150,Fall 2025,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,20
+EVAL_8078,MATH301,Summer 2026,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8079,MATH301,Spring 2026,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8080,MATH301,Fall 2025,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,40
+EVAL_8081,DATA410,Summer 2026,The professor reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8082,CS101,Fall 2025,Curriculum materials and lecture slides are well structured and easy to follow.,Positive,Course Content,20
+EVAL_8083,CS205,Summer 2026,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8084,PHYS150,Spring 2026,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,40
+EVAL_8085,MATH301,Fall 2025,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,20
+EVAL_8086,MATH301,Spring 2026,I am not happy with how disorganized the teacher is with homework deadlines.,Frustration,Course Content,80
+EVAL_8087,CS205,Spring 2026,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,20
+EVAL_8088,CS101,Summer 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8089,PHYS150,Spring 2026,The academic dread is so intense that I cannot concentrate on anything anymore.,High Stress,Mental Well-being,100
+EVAL_8090,ENG102,Spring 2026,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,20
+EVAL_8091,PHYS150,Summer 2026,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,40
+EVAL_8092,CS205,Summer 2026,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8093,CS101,Fall 2025,I am experiencing chest tightness and insomnia every time I think about my GPA.,High Stress,Mental Well-being,100
+EVAL_8094,PHYS150,Spring 2026,The teacher reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8095,MATH301,Spring 2026,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,40
+EVAL_8096,ENG102,Summer 2026,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,40
+EVAL_8097,CS101,Fall 2025,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,40
+EVAL_8098,CS205,Summer 2026,I feel suffocated by academic deadlines; I don't know who to talk to and feel totally alone.,High Stress,Mental Well-being,100
+EVAL_8099,CS101,Spring 2026,Students are not happy with the sudden change in exam format.,Frustration,Examination,80
+EVAL_8100,CS101,Summer 2026,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Overload,Workload,80
+EVAL_8101,CS205,Fall 2025,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Overload,Workload,100
+EVAL_8102,CS101,Summer 2026,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8103,ENG102,Summer 2026,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8104,CS205,Fall 2025,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8105,CS205,Spring 2026,Office hours were incredibly supportive. The teaching assistants always took time to help us debug.,Positive,Support,20
+EVAL_8106,CS101,Fall 2025,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8107,CS205,Summer 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8108,CS101,Spring 2026,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,20
+EVAL_8109,CS101,Fall 2025,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,60
+EVAL_8110,MATH301,Spring 2026,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Overload,Workload,100
+EVAL_8111,MATH301,Summer 2026,I am having severe anxiety and panic attacks because of the upcoming final exam.,High Stress,Mental Well-being,100
+EVAL_8112,CS101,Fall 2025,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8113,CS205,Spring 2026,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8114,MATH301,Summer 2026,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,40
+EVAL_8115,DATA410,Spring 2026,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,60
+EVAL_8116,CS205,Fall 2025,The professor reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8117,PHYS150,Summer 2026,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8118,PHYS150,Fall 2025,I cannot understand why the grading took four weeks without any updates.,Frustration,Support,80
+EVAL_8119,CS101,Fall 2025,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8120,CS101,Fall 2025,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,20
+EVAL_8121,CS101,Fall 2025,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8122,PHYS150,Spring 2026,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,40
+EVAL_8123,PHYS150,Spring 2026,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8124,ENG102,Summer 2026,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8125,DATA410,Spring 2026,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8126,MATH301,Spring 2026,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,40
+EVAL_8127,DATA410,Spring 2026,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8128,CS205,Summer 2026,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,20
+EVAL_8129,CS205,Spring 2026,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Overload,Workload,100
+EVAL_8130,CS101,Fall 2025,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,60
+EVAL_8131,ENG102,Summer 2026,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8132,PHYS150,Summer 2026,There is no practice exam provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8133,PHYS150,Summer 2026,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8134,MATH301,Fall 2025,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8135,ENG102,Summer 2026,I cannot understand why the grading took four weeks without any updates.,Frustration,Support,80
+EVAL_8136,ENG102,Spring 2026,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,60
+EVAL_8137,PHYS150,Spring 2026,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,40
+EVAL_8138,ENG102,Summer 2026,There is no practice midterm provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8139,DATA410,Spring 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8140,PHYS150,Fall 2025,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Overload,Workload,80
+EVAL_8141,MATH301,Spring 2026,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8142,PHYS150,Summer 2026,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8143,CS101,Fall 2025,The curriculum prerequisite list includes calculus and introductory programming.,Neutral,Course Content,40
+EVAL_8144,CS205,Fall 2025,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8145,DATA410,Summer 2026,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Frustration,Support,80
+EVAL_8146,DATA410,Spring 2026,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,40
+EVAL_8147,ENG102,Spring 2026,The campus study spaces and library resources made test preparation much smoother.,Positive,Library/Resources,20
+EVAL_8148,CS205,Summer 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8149,CS205,Spring 2026,The campus study spaces and library resources made midterm preparation much smoother.,Positive,Library/Resources,20
+EVAL_8150,MATH301,Summer 2026,The online submission portal crashed right before the assignment deadline.,Frustration,Support,80
+EVAL_8151,CS101,Fall 2025,The lecturer reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8152,CS101,Summer 2026,The online submission portal crashed right before the assignment deadline.,Frustration,Support,80
+EVAL_8153,CS101,Spring 2026,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,40
+EVAL_8154,DATA410,Fall 2025,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,20
+EVAL_8155,MATH301,Spring 2026,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Overload,Workload,100
+EVAL_8156,PHYS150,Spring 2026,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,40
+EVAL_8157,MATH301,Spring 2026,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,40
+EVAL_8158,CS101,Fall 2025,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8159,MATH301,Summer 2026,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8160,DATA410,Fall 2025,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8161,CS101,Summer 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8162,PHYS150,Fall 2025,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8163,CS101,Summer 2026,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,20
+EVAL_8164,MATH301,Fall 2025,The online submission portal crashed right before the assignment deadline.,Frustration,Support,80
+EVAL_8165,CS101,Spring 2026,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8166,DATA410,Spring 2026,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,20
+EVAL_8167,CS101,Summer 2026,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,40
+EVAL_8168,PHYS150,Summer 2026,I feel suffocated by academic deadlines; I don't know who to talk to and feel totally alone.,High Stress,Mental Well-being,100
+EVAL_8169,PHYS150,Fall 2025,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8170,CS205,Fall 2025,I am having severe anxiety and panic attacks because of the upcoming final exam.,High Stress,Mental Well-being,100
+EVAL_8171,DATA410,Summer 2026,I am experiencing chest tightness and insomnia every time I think about my GPA.,High Stress,Mental Well-being,100
+EVAL_8172,PHYS150,Fall 2025,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8173,ENG102,Fall 2025,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,40
+EVAL_8174,DATA410,Summer 2026,Lab equipment is outdated and half the software licenses are expired.,Frustration,Lab Work,60
+EVAL_8175,CS205,Summer 2026,I am not happy with how disorganized the professor is with homework deadlines.,Frustration,Course Content,80
+EVAL_8176,DATA410,Summer 2026,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8177,MATH301,Fall 2025,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8178,CS101,Summer 2026,I feel suffocated by academic deadlines; I don't know who to talk to and feel totally alone.,High Stress,Mental Well-being,100
+EVAL_8179,MATH301,Summer 2026,I feel completely overwhelmed and hopeless about passing this subject despite studying constantly.,High Stress,Mental Well-being,100
+EVAL_8180,PHYS150,Fall 2025,The sheer volume of homework prevents me from sleeping more than four hours a night.,Overload,Workload,100
+EVAL_8181,CS101,Spring 2026,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,20
+EVAL_8182,PHYS150,Fall 2025,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,60
+EVAL_8183,MATH301,Spring 2026,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,40
+EVAL_8184,ENG102,Spring 2026,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Frustration,Support,80
+EVAL_8185,ENG102,Summer 2026,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,20
+EVAL_8186,CS205,Fall 2025,I am experiencing chest tightness and insomnia every time I think about my GPA.,High Stress,Mental Well-being,100
+EVAL_8187,MATH301,Spring 2026,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8188,CS205,Spring 2026,The workload in this 3-credit course feels like a full-time 12-credit program.,Overload,Workload,100
+EVAL_8189,MATH301,Fall 2025,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8190,ENG102,Spring 2026,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8191,ENG102,Spring 2026,There is no practice exam provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8192,PHYS150,Summer 2026,The workload in this 3-credit module feels like a full-time 12-credit program.,Overload,Workload,100
+EVAL_8193,CS205,Fall 2025,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8194,MATH301,Summer 2026,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Frustration,Teaching,80
+EVAL_8195,MATH301,Fall 2025,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8196,CS205,Fall 2025,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8197,DATA410,Spring 2026,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8198,DATA410,Spring 2026,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8199,ENG102,Spring 2026,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,20
+EVAL_8200,CS101,Spring 2026,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,60
+EVAL_8201,MATH301,Fall 2025,The professor reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8202,CS101,Summer 2026,The sheer volume of homework prevents me from sleeping more than four hours a night.,Overload,Workload,100
+EVAL_8203,CS205,Summer 2026,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,40
+EVAL_8204,PHYS150,Spring 2026,The grading criteria for the term paper were extremely vague and subjective.,Frustration,Examination,60
+EVAL_8205,CS101,Summer 2026,I am experiencing chest tightness and insomnia every time I think about my GPA.,High Stress,Mental Well-being,100
+EVAL_8206,MATH301,Summer 2026,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8207,MATH301,Spring 2026,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8208,ENG102,Fall 2025,I feel suffocated by academic deadlines; I don't know who to talk to and feel totally alone.,High Stress,Mental Well-being,100
+EVAL_8209,MATH301,Fall 2025,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,20
+EVAL_8210,CS205,Fall 2025,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8211,MATH301,Summer 2026,I am having severe anxiety and panic attacks because of the upcoming final exam.,High Stress,Mental Well-being,100
+EVAL_8212,CS101,Fall 2025,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,40
+EVAL_8213,ENG102,Fall 2025,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,40
+EVAL_8214,PHYS150,Spring 2026,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8215,CS205,Summer 2026,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,20
+EVAL_8216,ENG102,Summer 2026,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8217,CS101,Spring 2026,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8218,CS101,Spring 2026,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,20
+EVAL_8219,ENG102,Spring 2026,The academic dread is so intense that I cannot concentrate on anything anymore.,High Stress,Mental Well-being,100
+EVAL_8220,PHYS150,Fall 2025,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,20
+EVAL_8221,CS101,Summer 2026,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,60
+EVAL_8222,DATA410,Fall 2025,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Frustration,Support,80
+EVAL_8223,CS101,Spring 2026,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,40
+EVAL_8224,ENG102,Spring 2026,Students are not happy with the sudden change in exam format.,Frustration,Examination,80
+EVAL_8225,ENG102,Fall 2025,The sheer volume of homework prevents me from sleeping more than four hours a night.,Overload,Workload,100
+EVAL_8226,DATA410,Fall 2025,The grading criteria for the term paper were extremely vague and subjective.,Frustration,Examination,60
+EVAL_8227,MATH301,Spring 2026,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,20
+EVAL_8228,ENG102,Fall 2025,The workload in this 3-credit course feels like a full-time 12-credit program.,Overload,Workload,100
+EVAL_8229,ENG102,Spring 2026,The online submission portal crashed right before the assignment deadline.,Frustration,Support,80
+EVAL_8230,CS101,Spring 2026,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8231,ENG102,Spring 2026,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,40
+EVAL_8232,ENG102,Spring 2026,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,20
+EVAL_8233,ENG102,Spring 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8234,CS205,Spring 2026,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8235,CS101,Summer 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8236,CS101,Summer 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8237,CS205,Fall 2025,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,20
+EVAL_8238,DATA410,Fall 2025,The professor reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8239,PHYS150,Summer 2026,Lecture slides are just copied directly from the textbook with zero additional explanation.,Frustration,Teaching,60
+EVAL_8240,DATA410,Fall 2025,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8241,MATH301,Summer 2026,I am not happy with how disorganized the faculty member is with homework deadlines.,Frustration,Course Content,80
+EVAL_8242,DATA410,Fall 2025,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8243,CS101,Fall 2025,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Frustration,Teaching,80
+EVAL_8244,MATH301,Summer 2026,I am experiencing chest tightness and insomnia every time I think about my GPA.,High Stress,Mental Well-being,100
+EVAL_8245,DATA410,Spring 2026,The constant pressure and harsh grading have completely destroyed my mental health this term.,High Stress,Mental Well-being,100
+EVAL_8246,ENG102,Spring 2026,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,40
+EVAL_8247,MATH301,Fall 2025,The sheer volume of homework prevents me from sleeping more than four hours a night.,Overload,Workload,100
+EVAL_8248,ENG102,Spring 2026,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8249,PHYS150,Fall 2025,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8250,MATH301,Summer 2026,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,40
+EVAL_8251,DATA410,Fall 2025,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8252,PHYS150,Spring 2026,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,20
+EVAL_8253,DATA410,Summer 2026,I am not stressed at all because the faculty member provided excellent prep materials.,Positive,Teaching,20
+EVAL_8254,DATA410,Spring 2026,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8255,CS205,Summer 2026,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,60
+EVAL_8256,CS101,Spring 2026,I am having severe anxiety and panic attacks because of the upcoming final test.,High Stress,Mental Well-being,100
+EVAL_8257,DATA410,Fall 2025,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Overload,Workload,80
+EVAL_8258,PHYS150,Fall 2025,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8259,CS205,Spring 2026,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Frustration,Teaching,80
+EVAL_8260,PHYS150,Summer 2026,The online submission portal crashed right before the assignment deadline.,Frustration,Support,80
+EVAL_8261,DATA410,Fall 2025,The professor reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8262,DATA410,Fall 2025,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,20
+EVAL_8263,CS205,Summer 2026,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,20
+EVAL_8264,DATA410,Fall 2025,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,40
+EVAL_8265,ENG102,Fall 2025,There is no practice exam provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8266,DATA410,Summer 2026,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,60
+EVAL_8267,MATH301,Fall 2025,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,20
+EVAL_8268,CS205,Summer 2026,Students are not happy with the sudden change in exam format.,Frustration,Examination,80
+EVAL_8269,ENG102,Spring 2026,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Overload,Workload,100
+EVAL_8270,CS205,Spring 2026,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Overload,Workload,80
+EVAL_8271,ENG102,Fall 2025,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Overload,Workload,100
+EVAL_8272,CS101,Summer 2026,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8273,MATH301,Summer 2026,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8274,CS101,Summer 2026,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Overload,Workload,100
+EVAL_8275,ENG102,Spring 2026,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8276,PHYS150,Spring 2026,The sheer volume of homework prevents me from sleeping more than four hours a night.,Overload,Workload,100
+EVAL_8277,PHYS150,Summer 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8278,MATH301,Summer 2026,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,20
+EVAL_8279,ENG102,Summer 2026,The lecturer reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8280,PHYS150,Fall 2025,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8281,PHYS150,Fall 2025,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Overload,Workload,100
+EVAL_8282,MATH301,Fall 2025,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8283,ENG102,Fall 2025,The sheer volume of homework prevents me from sleeping more than four hours a night.,Overload,Workload,100
+EVAL_8284,CS205,Summer 2026,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,60
+EVAL_8285,PHYS150,Summer 2026,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,20
+EVAL_8286,CS101,Summer 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8287,CS101,Fall 2025,Students are not happy with the sudden change in midterm format.,Frustration,Examination,80
+EVAL_8288,ENG102,Summer 2026,The grading criteria for the term paper were extremely vague and subjective.,Frustration,Examination,60
+EVAL_8289,MATH301,Fall 2025,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,40
+EVAL_8290,PHYS150,Summer 2026,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8291,ENG102,Spring 2026,There is no practice midterm provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8292,MATH301,Fall 2025,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8293,DATA410,Summer 2026,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Overload,Workload,100
+EVAL_8294,MATH301,Summer 2026,I am having severe anxiety and panic attacks because of the upcoming final exam.,High Stress,Mental Well-being,100
+EVAL_8295,PHYS150,Spring 2026,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Overload,Workload,100
+EVAL_8296,CS101,Spring 2026,The academic dread is so intense that I cannot concentrate on anything anymore.,High Stress,Mental Well-being,100
+EVAL_8297,ENG102,Fall 2025,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,60
+EVAL_8298,CS101,Summer 2026,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,40
+EVAL_8299,CS101,Summer 2026,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8300,DATA410,Summer 2026,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8301,CS205,Spring 2026,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,40
+EVAL_8302,PHYS150,Fall 2025,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8303,CS205,Summer 2026,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Frustration,Teaching,80
+EVAL_8304,CS205,Summer 2026,The workload in this 3-credit class feels like a full-time 12-credit program.,Overload,Workload,100
+EVAL_8305,CS101,Fall 2025,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8306,PHYS150,Spring 2026,Confusing instructions on the final project caused our entire group to lose points unfairly.,Frustration,Course Content,80
+EVAL_8307,ENG102,Summer 2026,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8308,CS101,Summer 2026,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8309,CS101,Fall 2025,We are assigned new complex chapters right during midterms week with no extension.,Overload,Workload,80
+EVAL_8310,DATA410,Spring 2026,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,20
+EVAL_8311,ENG102,Fall 2025,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8312,MATH301,Summer 2026,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,40
+EVAL_8313,ENG102,Fall 2025,I am having severe anxiety and panic attacks because of the upcoming final exam.,High Stress,Mental Well-being,100
+EVAL_8314,ENG102,Fall 2025,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,40
+EVAL_8315,CS205,Spring 2026,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,40
+EVAL_8316,MATH301,Fall 2025,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,20
+EVAL_8317,MATH301,Fall 2025,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,20
+EVAL_8318,ENG102,Summer 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8319,CS101,Fall 2025,The sheer volume of homework prevents me from sleeping more than four hours a night.,Overload,Workload,100
+EVAL_8320,CS205,Spring 2026,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,20
+EVAL_8321,CS205,Summer 2026,The professor reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8322,PHYS150,Fall 2025,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8323,MATH301,Spring 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8324,MATH301,Fall 2025,I am not drowning in work at all now that the TA helped clarify the project roadmap.,Positive,Support,20
+EVAL_8325,MATH301,Spring 2026,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8326,CS205,Fall 2025,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,60
+EVAL_8327,DATA410,Spring 2026,The sheer volume of homework prevents me from sleeping more than four hours a night.,Overload,Workload,100
+EVAL_8328,CS205,Fall 2025,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8329,CS205,Spring 2026,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,60
+EVAL_8330,CS101,Summer 2026,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8331,CS101,Fall 2025,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8332,ENG102,Summer 2026,Students are not happy with the sudden change in exam format.,Frustration,Examination,80
+EVAL_8333,ENG102,Fall 2025,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,20
+EVAL_8334,PHYS150,Spring 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8335,MATH301,Spring 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8336,CS101,Spring 2026,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8337,CS101,Spring 2026,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,20
+EVAL_8338,DATA410,Summer 2026,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8339,ENG102,Fall 2025,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Overload,Workload,80
+EVAL_8340,ENG102,Summer 2026,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8341,DATA410,Fall 2025,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,60
+EVAL_8342,ENG102,Summer 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8343,ENG102,Summer 2026,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8344,CS101,Summer 2026,The campus study spaces and library resources made quiz preparation much smoother.,Positive,Library/Resources,20
+EVAL_8345,CS205,Fall 2025,Lab equipment is outdated and half the software licenses are expired.,Frustration,Lab Work,60
+EVAL_8346,DATA410,Summer 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8347,PHYS150,Fall 2025,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,40
+EVAL_8348,ENG102,Spring 2026,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,40
+EVAL_8349,CS205,Spring 2026,I am not happy with how disorganized the professor is with homework deadlines.,Frustration,Course Content,80
+EVAL_8350,CS101,Fall 2025,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8351,DATA410,Summer 2026,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Overload,Workload,80
+EVAL_8352,CS101,Summer 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8353,PHYS150,Fall 2025,The academic dread is so intense that I cannot concentrate on anything anymore.,High Stress,Mental Well-being,100
+EVAL_8354,CS205,Summer 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8355,ENG102,Spring 2026,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,20
+EVAL_8356,PHYS150,Fall 2025,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Overload,Workload,100
+EVAL_8357,DATA410,Fall 2025,Confusing instructions on the final project caused our entire group to lose points unfairly.,Frustration,Course Content,80
+EVAL_8358,CS101,Fall 2025,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8359,CS101,Spring 2026,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Overload,Workload,80
+EVAL_8360,ENG102,Fall 2025,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8361,MATH301,Fall 2025,The professor reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8362,MATH301,Fall 2025,I feel completely overwhelmed and hopeless about passing this course despite studying constantly.,High Stress,Mental Well-being,100
+EVAL_8363,MATH301,Fall 2025,I am not happy with how disorganized the professor is with homework deadlines.,Frustration,Course Content,80
+EVAL_8364,DATA410,Fall 2025,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Overload,Workload,100
+EVAL_8365,ENG102,Fall 2025,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8366,CS101,Fall 2025,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,40
+EVAL_8367,CS101,Fall 2025,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,40
+EVAL_8368,MATH301,Spring 2026,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,20
+EVAL_8369,DATA410,Summer 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8370,MATH301,Fall 2025,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8371,PHYS150,Summer 2026,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8372,CS205,Spring 2026,The constant pressure and harsh grading have completely destroyed my mental health this term.,High Stress,Mental Well-being,100
+EVAL_8373,ENG102,Summer 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8374,DATA410,Fall 2025,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8375,CS205,Fall 2025,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Frustration,Teaching,80
+EVAL_8376,MATH301,Summer 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8377,CS101,Fall 2025,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Overload,Workload,80
+EVAL_8378,MATH301,Summer 2026,I am experiencing chest tightness and insomnia every time I think about my GPA.,High Stress,Mental Well-being,100
+EVAL_8379,CS205,Fall 2025,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,40
+EVAL_8380,DATA410,Fall 2025,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8381,CS205,Fall 2025,"The test was not difficult; in fact, it was very fair and well designed.",Positive,Examination,20
+EVAL_8382,DATA410,Fall 2025,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8383,DATA410,Spring 2026,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,40
+EVAL_8384,MATH301,Spring 2026,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8385,CS101,Fall 2025,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,20
+EVAL_8386,ENG102,Summer 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8387,CS205,Fall 2025,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8388,CS101,Summer 2026,Brilliant lectures! Lecturer always connects academic theories with real-world industry case studies.,Positive,Teaching,20
+EVAL_8389,PHYS150,Spring 2026,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,20
+EVAL_8390,CS101,Fall 2025,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Frustration,Teaching,80
+EVAL_8391,CS101,Summer 2026,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Frustration,Teaching,80
+EVAL_8392,MATH301,Spring 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8393,PHYS150,Spring 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8394,ENG102,Spring 2026,Brilliant lectures! Lecturer always connects academic theories with real-world industry case studies.,Positive,Teaching,20
+EVAL_8395,CS101,Summer 2026,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8396,DATA410,Spring 2026,We are assigned new complex chapters right during midterms week with no extension.,Overload,Workload,80
+EVAL_8397,MATH301,Spring 2026,Students are not happy with the sudden change in exam format.,Frustration,Examination,80
+EVAL_8398,ENG102,Summer 2026,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Overload,Workload,80
+EVAL_8399,ENG102,Summer 2026,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8400,MATH301,Fall 2025,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8401,PHYS150,Spring 2026,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8402,DATA410,Summer 2026,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,20
+EVAL_8403,MATH301,Spring 2026,The constant pressure and harsh grading have completely destroyed my mental health this term.,High Stress,Mental Well-being,100
+EVAL_8404,CS101,Spring 2026,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,20
+EVAL_8405,PHYS150,Summer 2026,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8406,PHYS150,Summer 2026,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8407,CS101,Spring 2026,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8408,PHYS150,Summer 2026,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8409,ENG102,Spring 2026,There is no practice exam provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8410,DATA410,Fall 2025,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Overload,Workload,80
+EVAL_8411,ENG102,Summer 2026,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,40
+EVAL_8412,ENG102,Summer 2026,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8413,ENG102,Fall 2025,"The final evaluation was not difficult; in fact, it was very fair and well designed.",Positive,Examination,20
+EVAL_8414,DATA410,Fall 2025,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,20
+EVAL_8415,MATH301,Spring 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8416,PHYS150,Fall 2025,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8417,CS205,Summer 2026,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,40
+EVAL_8418,CS205,Spring 2026,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,20
+EVAL_8419,PHYS150,Spring 2026,We are assigned new complex chapters right during midterms week with no extension.,Overload,Workload,80
+EVAL_8420,CS101,Fall 2025,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Frustration,Support,80
+EVAL_8421,ENG102,Fall 2025,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,40
+EVAL_8422,PHYS150,Fall 2025,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,20
+EVAL_8423,CS205,Spring 2026,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,20
+EVAL_8424,CS205,Fall 2025,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8425,CS101,Spring 2026,I am not happy with how disorganized the professor is with homework deadlines.,Frustration,Course Content,80
+EVAL_8426,PHYS150,Spring 2026,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8427,DATA410,Spring 2026,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,20
+EVAL_8428,ENG102,Fall 2025,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,20
+EVAL_8429,ENG102,Fall 2025,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8430,PHYS150,Spring 2026,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8431,CS101,Spring 2026,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Overload,Workload,100
+EVAL_8432,ENG102,Spring 2026,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8433,CS205,Spring 2026,I cannot understand why the grading took four weeks without any updates.,Frustration,Support,80
+EVAL_8434,CS205,Fall 2025,I am experiencing chest tightness and insomnia every time I think about my GPA.,High Stress,Mental Well-being,100
+EVAL_8435,PHYS150,Summer 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8436,DATA410,Spring 2026,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,40
+EVAL_8437,MATH301,Fall 2025,I feel suffocated by academic deadlines; I don't know who to talk to and feel totally alone.,High Stress,Mental Well-being,100
+EVAL_8438,CS101,Summer 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8439,PHYS150,Summer 2026,Lecture slides are just copied directly from the textbook with zero additional explanation.,Frustration,Teaching,60
+EVAL_8440,ENG102,Fall 2025,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Frustration,Teaching,80
+EVAL_8441,MATH301,Spring 2026,Unclear instructions on the final project caused our entire group to lose points unfairly.,Frustration,Course Content,80
+EVAL_8442,CS205,Fall 2025,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,40
+EVAL_8443,PHYS150,Spring 2026,I cannot understand why the grading took four weeks without any updates.,Frustration,Support,80
+EVAL_8444,CS101,Fall 2025,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,40
+EVAL_8445,DATA410,Fall 2025,I am definitely not happy with the way this midterm was graded.,Frustration,Examination,80
+EVAL_8446,MATH301,Summer 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8447,PHYS150,Summer 2026,The grading criteria for the term paper were extremely vague and subjective.,Frustration,Examination,60
+EVAL_8448,PHYS150,Summer 2026,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8449,PHYS150,Spring 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8450,PHYS150,Summer 2026,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,20
+EVAL_8451,DATA410,Fall 2025,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,20
+EVAL_8452,CS205,Spring 2026,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Frustration,Support,80
+EVAL_8453,MATH301,Spring 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8454,PHYS150,Fall 2025,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8455,MATH301,Fall 2025,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8456,MATH301,Summer 2026,Lecture slides are just copied directly from the textbook with zero additional explanation.,Frustration,Teaching,60
+EVAL_8457,DATA410,Spring 2026,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,20
+EVAL_8458,DATA410,Spring 2026,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8459,CS205,Fall 2025,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8460,PHYS150,Fall 2025,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,40
+EVAL_8461,ENG102,Summer 2026,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,60
+EVAL_8462,MATH301,Fall 2025,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8463,CS205,Spring 2026,"The final grade consists of 40% assignments, 30% midterm, and 30% final midterm.",Neutral,Examination,60
+EVAL_8464,ENG102,Summer 2026,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8465,PHYS150,Spring 2026,Students are not happy with the sudden change in quiz format.,Frustration,Examination,80
+EVAL_8466,CS101,Summer 2026,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8467,CS101,Summer 2026,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,20
+EVAL_8468,MATH301,Fall 2025,Lab equipment is outdated and half the software licenses are expired.,Frustration,Lab Work,60
+EVAL_8469,CS101,Summer 2026,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Overload,Workload,80
+EVAL_8470,CS205,Spring 2026,Failing this test will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8471,ENG102,Spring 2026,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,60
+EVAL_8472,MATH301,Summer 2026,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8473,PHYS150,Spring 2026,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8474,ENG102,Spring 2026,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,40
+EVAL_8475,PHYS150,Summer 2026,I am experiencing chest tightness and insomnia every time I think about my GPA.,High Stress,Mental Well-being,100
+EVAL_8476,DATA410,Fall 2025,There is no practice exam provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8477,ENG102,Fall 2025,I cannot understand why the grading took four weeks without any updates.,Frustration,Support,80
+EVAL_8478,CS101,Fall 2025,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8479,ENG102,Fall 2025,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,20
+EVAL_8480,CS205,Fall 2025,I feel completely overwhelmed and hopeless about passing this course despite studying constantly.,High Stress,Mental Well-being,100
+EVAL_8481,MATH301,Fall 2025,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8482,MATH301,Spring 2026,I am having severe anxiety and panic attacks because of the upcoming final test.,High Stress,Mental Well-being,100
+EVAL_8483,DATA410,Spring 2026,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,40
+EVAL_8484,CS101,Summer 2026,Emails sent to the course instructor are routinely ignored for weeks.,Frustration,Support,80
+EVAL_8485,CS205,Spring 2026,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
+EVAL_8486,DATA410,Spring 2026,Confusing instructions on the final project caused our entire group to lose points unfairly.,Frustration,Course Content,80
+EVAL_8487,MATH301,Summer 2026,Lab equipment is outdated and half the software licenses are expired.,Frustration,Lab Work,60
+EVAL_8488,PHYS150,Summer 2026,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,40
+EVAL_8489,DATA410,Fall 2025,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,20
+EVAL_8490,CS101,Fall 2025,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8491,CS101,Fall 2025,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8492,MATH301,Summer 2026,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Overload,Workload,100
+EVAL_8493,DATA410,Fall 2025,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8494,ENG102,Spring 2026,Students are not happy with the sudden change in exam format.,Frustration,Examination,80
+EVAL_8495,CS205,Fall 2025,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8496,DATA410,Spring 2026,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8497,DATA410,Summer 2026,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,20
+EVAL_8498,CS205,Summer 2026,Emails sent to the course instructor are routinely ignored for weeks.,Frustration,Support,80
+EVAL_8499,CS101,Spring 2026,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,20
+EVAL_8500,CS205,Spring 2026,We are assigned new complex chapters right during midterms week with no extension.,Overload,Workload,80
+EVAL_8501,CS101,Fall 2025,I feel completely buried in tasks and hopeless about passing this module despite studying constantly.,High Stress,Mental Well-being,100
+EVAL_8502,ENG102,Spring 2026,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,20
+EVAL_8503,ENG102,Fall 2025,Lab equipment is outdated and half the software licenses are expired.,Frustration,Lab Work,60
+EVAL_8504,MATH301,Fall 2025,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8505,MATH301,Summer 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8506,MATH301,Fall 2025,Students are not happy with the sudden change in quiz format.,Frustration,Examination,80
+EVAL_8507,DATA410,Spring 2026,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,20
+EVAL_8508,MATH301,Summer 2026,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,40
+EVAL_8509,CS205,Spring 2026,Lecture slides are just copied directly from the textbook with zero additional explanation.,Frustration,Teaching,60
+EVAL_8510,CS205,Spring 2026,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8511,PHYS150,Summer 2026,Lab equipment is outdated and half the software licenses are expired.,Frustration,Lab Work,60
+EVAL_8512,PHYS150,Spring 2026,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,20
+EVAL_8513,ENG102,Spring 2026,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8514,CS101,Fall 2025,There is no practice exam provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8515,DATA410,Spring 2026,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,20
+EVAL_8516,CS205,Fall 2025,Confusing instructions on the final project caused our entire group to lose points unfairly.,Frustration,Course Content,80
+EVAL_8517,ENG102,Summer 2026,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,20
+EVAL_8518,MATH301,Spring 2026,The online submission portal crashed right before the assignment deadline.,Frustration,Support,80
+EVAL_8519,PHYS150,Fall 2025,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8520,DATA410,Fall 2025,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,20
+EVAL_8521,DATA410,Spring 2026,Lecture slides are just copied directly from the textbook with zero additional explanation.,Frustration,Teaching,60
+EVAL_8522,PHYS150,Summer 2026,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,40
+EVAL_8523,CS101,Fall 2025,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8524,MATH301,Fall 2025,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,40
+EVAL_8525,ENG102,Summer 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8526,CS205,Fall 2025,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8527,MATH301,Spring 2026,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,20
+EVAL_8528,ENG102,Spring 2026,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,20
+EVAL_8529,PHYS150,Fall 2025,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Frustration,Support,80
+EVAL_8530,MATH301,Summer 2026,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,20
+EVAL_8531,CS205,Summer 2026,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,20
+EVAL_8532,MATH301,Summer 2026,Office hours were incredibly encouraging. The teaching assistants always took time to help us debug.,Positive,Support,20
+EVAL_8533,ENG102,Summer 2026,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,20
+EVAL_8534,CS101,Summer 2026,Office hours were incredibly supportive. The teaching assistants always took time to help us debug.,Positive,Support,20
+EVAL_8535,ENG102,Fall 2025,The faculty member reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8536,DATA410,Fall 2025,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8537,DATA410,Fall 2025,I cannot understand why the grading took four weeks without any updates.,Frustration,Support,80
+EVAL_8538,PHYS150,Summer 2026,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Overload,Workload,80
+EVAL_8539,PHYS150,Spring 2026,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,40
+EVAL_8540,DATA410,Summer 2026,Students are not happy with the sudden change in test format.,Frustration,Examination,80
+EVAL_8541,MATH301,Spring 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8542,CS101,Spring 2026,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8543,ENG102,Spring 2026,The online submission portal crashed right before the assignment deadline.,Frustration,Support,80
+EVAL_8544,CS101,Summer 2026,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,20
+EVAL_8545,DATA410,Summer 2026,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,40
+EVAL_8546,CS101,Summer 2026,The faculty member explains complex algorithms with great clarity and patience.,Positive,Teaching,20
+EVAL_8547,CS101,Spring 2026,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Overload,Workload,80
+EVAL_8548,ENG102,Summer 2026,The grading criteria for the term paper were extremely vague and subjective.,Frustration,Examination,60
+EVAL_8549,DATA410,Spring 2026,I feel suffocated by academic deadlines; I don't know who to talk to and feel totally alone.,High Stress,Mental Well-being,100
+EVAL_8550,PHYS150,Summer 2026,There is no practice exam provided despite repeated requests from students.,Frustration,Examination,60
+EVAL_8551,CS205,Summer 2026,We are assigned new complex chapters right during midterms week with no extension.,Overload,Workload,80
+EVAL_8552,CS101,Summer 2026,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Overload,Workload,80
+EVAL_8553,CS205,Fall 2025,The workload in this 3-credit course feels like a full-time 12-credit program.,Overload,Workload,100
+EVAL_8554,CS205,Spring 2026,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,40
+EVAL_8555,PHYS150,Fall 2025,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,40
+EVAL_8556,CS101,Spring 2026,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,60
+EVAL_8557,ENG102,Spring 2026,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,20
+EVAL_8558,ENG102,Spring 2026,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8559,DATA410,Spring 2026,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8560,DATA410,Fall 2025,I feel like an absolute failure who cannot keep up with anyone in this department.,High Stress,Mental Well-being,100
+EVAL_8561,CS205,Summer 2026,We were tested on material that was never discussed in class or assigned in readings.,Frustration,Examination,80
+EVAL_8562,CS101,Spring 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8563,CS205,Fall 2025,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,20
+EVAL_8564,ENG102,Spring 2026,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,20
+EVAL_8565,PHYS150,Summer 2026,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,20
+EVAL_8566,CS101,Summer 2026,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8567,ENG102,Fall 2025,Failing this exam will cost me my scholarship and visa; the stress is paralyzing me.,High Stress,Mental Well-being,100
+EVAL_8568,CS205,Fall 2025,Brilliant lectures! Lecturer always connects academic theories with real-world industry case studies.,Positive,Teaching,20
+EVAL_8569,CS205,Spring 2026,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,20
+EVAL_8570,DATA410,Fall 2025,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,40
+EVAL_8571,PHYS150,Summer 2026,Too many mandatory group meetings and simultaneous milestone submissions this month.,Overload,Workload,80
+EVAL_8572,DATA410,Summer 2026,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Overload,Workload,100
+EVAL_8573,CS101,Summer 2026,The academic dread is so intense that I cannot concentrate on anything anymore.,High Stress,Mental Well-being,100
+EVAL_8574,CS101,Spring 2026,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Overload,Workload,80
+EVAL_8575,ENG102,Summer 2026,Students are not happy with the sudden change in quiz format.,Frustration,Examination,80
+EVAL_8576,MATH301,Spring 2026,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8577,CS205,Fall 2025,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,40
+EVAL_8578,ENG102,Summer 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8579,PHYS150,Fall 2025,The sheer volume of homework prevents me from sleeping more than four hours a night.,Overload,Workload,100
+EVAL_8580,CS101,Fall 2025,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8581,ENG102,Spring 2026,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,40
+EVAL_8582,CS205,Fall 2025,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Overload,Workload,100
+EVAL_8583,DATA410,Spring 2026,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,40
+EVAL_8584,CS101,Summer 2026,I haven't slept properly in two weeks and feel like breaking down crying every single day.,High Stress,Mental Well-being,100
+EVAL_8585,PHYS150,Fall 2025,The constant pressure and harsh grading have completely destroyed my mental health this term.,High Stress,Mental Well-being,100
+EVAL_8586,CS205,Fall 2025,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,20
+EVAL_8587,PHYS150,Fall 2025,The professor reads monotone slides without ever looking up or answering chat questions.,Frustration,Teaching,80
+EVAL_8588,CS205,Spring 2026,I am having severe anxiety and panic attacks because of the upcoming final exam.,High Stress,Mental Well-being,100
+EVAL_8589,ENG102,Spring 2026,The schedule for office hours was updated on the main dashboard.,Neutral,Support,40
+EVAL_8590,MATH301,Fall 2025,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Frustration,Support,80
+EVAL_8591,CS205,Spring 2026,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,20
+EVAL_8592,DATA410,Summer 2026,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,20
+EVAL_8593,MATH301,Spring 2026,Office hours were incredibly encouraging. The teaching assistants always took time to help us debug.,Positive,Support,20
+EVAL_8594,CS205,Spring 2026,The grading criteria for the term paper were extremely vague and subjective.,Frustration,Examination,60
+EVAL_8595,CS205,Summer 2026,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,20
+EVAL_8596,DATA410,Spring 2026,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Overload,Workload,100
+EVAL_8597,MATH301,Fall 2025,Severe burnout and depression are making it impossible to even get out of bed for class.,High Stress,Mental Well-being,100
+EVAL_8598,PHYS150,Summer 2026,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,20
+EVAL_8599,ENG102,Spring 2026,The grading criteria for the term paper were extremely vague and subjective.,Frustration,Examination,60
+EVAL_8600,MATH301,Spring 2026,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,40
