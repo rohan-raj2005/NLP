@@ -17,7 +17,22 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, '../06_frontend_react_app')));
 
 // Python predictor execution helper
-function runPythonPrediction(text) {
+async function runPythonPrediction(text) {
+  // If Vercel service binding PYTHON_NLP_URL is available, call the internal Python service over HTTP
+  if (process.env.PYTHON_NLP_URL) {
+    const targetUrl = new URL('/api/analyze', process.env.PYTHON_NLP_URL);
+    const response = await fetch(targetUrl, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ text })
+    });
+    if (!response.ok) {
+      throw new Error(`Internal Python NLP service returned status ${response.status}`);
+    }
+    return await response.json();
+  }
+
+  // Fallback to local Python child process
   return new Promise((resolve, reject) => {
     const pythonScript = path.join(__dirname, 'predict.py');
     const pythonProcess = spawn('python', ['-c', `

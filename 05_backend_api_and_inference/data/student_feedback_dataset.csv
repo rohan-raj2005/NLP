@@ -1,0 +1,1201 @@
+id,student_feedback,sentiment,category,rating
+FB_5057,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5031,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5889,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5459,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5563,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5434,Students are not happy with the sudden change in exam format.,Negative,Examination,1
+FB_5187,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5639,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5648,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5999,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5192,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5573,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5559,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5972,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5561,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5517,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5683,I am not stressed at all because the teacher provided excellent prep materials.,Positive,Teaching,5
+FB_5081,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_6022,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5305,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5306,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5774,I am not swamped at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5085,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5965,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5521,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5364,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5110,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5909,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5337,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5248,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5504,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5322,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5345,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5244,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_6063,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5967,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5269,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5418,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5643,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5502,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_6144,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5466,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5107,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_6157,"The final grade consists of 40% assignments, 30% midterm, and 30% final test.",Neutral,Examination,3
+FB_5916,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_6004,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5708,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5058,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5025,The lecturer reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5445,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5389,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5320,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5518,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5050,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5141,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5785,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5380,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5662,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5080,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5138,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5458,Students are not happy with the sudden change in exam format.,Negative,Examination,1
+FB_5679,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_6044,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_6174,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5750,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5197,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5178,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5002,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5257,Ill-defined instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5626,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5220,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5344,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5876,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5131,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5199,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5968,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5115,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5355,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5252,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5453,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5653,The campus study spaces and library resources made midterm preparation much smoother.,Positive,Library/Resources,5
+FB_5427,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5488,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5615,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5835,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5230,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5758,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5034,"The test was not challenging; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5779,"The midterm was not punishing; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5101,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5175,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5822,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5931,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5074,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5120,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5856,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_6009,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5144,The online submission portal crashed right before the problem set deadline.,Negative,Support,1
+FB_5321,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_6197,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5767,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5149,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_6020,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5370,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5940,The faculty member is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5438,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5274,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_6138,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_6165,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5817,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5595,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5354,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5027,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5417,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5241,Students are not happy with the sudden change in exam format.,Negative,Examination,1
+FB_5712,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5045,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_6035,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5386,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5927,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5522,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5922,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_6054,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5701,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5356,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5631,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5984,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5620,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5008,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5247,The midterm final evaluation covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5936,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5479,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5741,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5382,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5888,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5343,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5601,"The midterm was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5633,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5117,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5656,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5915,I am not swamped at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5426,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_6040,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5072,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_6013,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5752,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_6093,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5569,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_6115,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5711,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5881,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5891,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5319,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_6171,I am not happy with how disorganized the instructor is with homework deadlines.,Negative,Course Content,1
+FB_5410,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5981,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5468,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5647,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_6079,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5067,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5362,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5424,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5577,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5800,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5484,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5869,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5945,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_6141,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5645,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5589,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5095,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5208,The online submission portal crashed right before the problem set deadline.,Negative,Support,1
+FB_5007,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5743,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5726,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5858,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5602,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5828,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5496,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5590,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5691,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5303,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5568,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5256,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5330,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5495,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5489,"The quiz was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5203,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_6078,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5603,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5644,Emails sent to the subject instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5830,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_6179,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5311,I am not stressed at all because the faculty member provided excellent prep materials.,Positive,Teaching,5
+FB_5191,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5422,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_6170,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_6187,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_6199,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5541,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5551,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5804,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5416,I am not drowning in work at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_6072,The subject prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5747,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5132,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5565,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5675,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5727,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_6182,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5122,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5587,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5457,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5966,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5630,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_6042,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5104,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5490,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5133,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5262,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5534,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5535,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5509,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5745,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5920,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5505,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_6038,Students are not happy with the sudden change in quiz format.,Negative,Examination,1
+FB_5733,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5326,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_6090,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5725,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5202,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_6074,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5729,The lecturer explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5198,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5586,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5693,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_6173,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5860,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5246,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_6100,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5240,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5579,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5165,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5664,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_6062,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5168,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_6066,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5777,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_6139,Class materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5062,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_6016,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_6108,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5990,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5090,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5156,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5450,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5449,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5778,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5723,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_6188,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5766,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5874,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5720,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5113,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5099,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_6030,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5350,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_6027,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_6019,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5174,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5223,Students are not happy with the sudden change in exam format.,Negative,Examination,1
+FB_6181,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5736,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5446,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_6092,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5759,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5555,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5715,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5902,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5436,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_6085,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_6147,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5571,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5396,The faculty member is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5401,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5071,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5933,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5041,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5619,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5145,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5636,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5323,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_6111,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5516,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5128,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5270,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5467,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5134,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_6122,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5420,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5960,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5650,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_6110,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5718,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5186,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5632,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5947,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5788,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5690,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5021,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5397,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5883,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5553,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5481,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5964,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5566,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5799,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5483,Ill-defined instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5228,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5116,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5724,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5831,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5668,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5813,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_6158,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5384,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5721,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5924,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_6025,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5040,The campus study spaces and library resources made midterm preparation much smoother.,Positive,Library/Resources,5
+FB_5550,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5919,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5151,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5872,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5685,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_6058,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5012,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5539,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5200,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5054,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5461,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5864,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5528,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_6053,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5170,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_6077,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5580,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5042,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_6014,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_6127,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5125,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5706,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5348,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5991,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5584,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5582,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5608,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5403,The midterm quiz covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_6106,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5687,"The exam was not challenging; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5329,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5612,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5093,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5896,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5969,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5583,The workload in this 3-credit subject feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5430,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_6076,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5678,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5259,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5763,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5879,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_6055,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5312,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5048,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_6151,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5394,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5293,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5043,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5368,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5893,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5716,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5251,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5254,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5161,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5698,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5696,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5882,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5554,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5024,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5409,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5431,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5066,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_6051,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5052,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5014,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_6159,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5237,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_6128,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5529,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5570,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5771,I am not drowning in work at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5761,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_6002,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5018,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5938,The midterm midterm covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_6098,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5532,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_6043,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5855,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5287,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_6136,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5923,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5381,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5515,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5231,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5033,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5295,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5412,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_6075,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5775,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5709,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_6037,"The final grade consists of 40% assignments, 30% midterm, and 30% final midterm.",Neutral,Examination,3
+FB_5538,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5899,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5361,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5462,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5296,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5641,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5055,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_6067,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5346,Subject materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5069,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5824,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5079,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5713,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5046,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5169,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5859,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5392,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5640,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5282,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_6061,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5209,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5100,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_6180,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_6008,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5182,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_6132,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5560,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_6045,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5265,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_6195,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_6193,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5755,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_6088,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5127,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_6065,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5703,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_6112,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5802,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5238,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5600,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5077,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5659,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_6114,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_6162,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5944,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5680,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5309,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5832,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5776,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5082,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5473,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5232,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5428,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5451,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_6101,I am not drowning in work at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5281,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5063,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5253,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5180,Office hours were incredibly encouraging. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5315,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5544,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5275,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5347,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5905,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5352,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5229,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5738,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5780,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5455,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5686,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5036,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5302,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5894,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5930,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5895,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5510,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5486,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5212,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5833,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_6168,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5739,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5795,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5850,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5576,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5288,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5097,Office hours were incredibly encouraging. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_6134,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5261,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5637,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5260,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5068,I am not swamped at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5390,The workload in this 3-credit class feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5373,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5065,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5613,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5179,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5465,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5493,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5782,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5216,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_6060,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5545,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5227,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5753,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5806,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5332,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5233,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5399,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_6154,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5941,I am not stressed at all because the instructor provided excellent prep materials.,Positive,Teaching,5
+FB_5124,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_6163,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5108,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_6103,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5849,The teacher is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5421,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5913,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5358,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5542,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5051,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5959,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5413,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5442,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5684,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5150,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5044,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5953,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5005,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5249,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5694,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5815,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5130,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5949,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5757,The faculty member explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_6191,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5598,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5196,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5734,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5016,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5494,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5136,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5201,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5283,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5188,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5447,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5567,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5660,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_6006,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5794,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5029,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5224,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_6135,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5279,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5387,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_6033,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5491,Office hours were incredibly supportive. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5857,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5955,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5443,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5906,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5492,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5480,The curriculum syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5289,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5989,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5367,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_6095,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5160,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5746,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5929,I am not happy with how disorganized the faculty member is with homework deadlines.,Negative,Course Content,1
+FB_5978,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5109,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5338,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5762,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_6082,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5140,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5166,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5088,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5221,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_6120,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5546,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5816,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_6071,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5035,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5030,"The final grade consists of 40% assignments, 30% midterm, and 30% final test.",Neutral,Examination,3
+FB_5135,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5986,The campus study spaces and library resources made quiz preparation much smoother.,Positive,Library/Resources,5
+FB_5558,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5500,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5143,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5204,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5328,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5975,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5313,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5037,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5666,The campus study spaces and library resources made midterm preparation much smoother.,Positive,Library/Resources,5
+FB_6113,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5756,The midterm quiz covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5976,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5578,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5731,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5844,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_6023,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5903,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5266,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5239,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_6024,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5126,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5463,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_6102,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5391,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5405,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_6125,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5962,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_6186,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5624,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5163,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5654,Students are not happy with the sudden change in exam format.,Negative,Examination,1
+FB_5592,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5137,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5503,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5215,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_6070,The teacher explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5146,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5912,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5796,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5519,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5039,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5183,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5501,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_6189,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5398,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_6160,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5219,"The midterm was not brutal; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5395,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_6081,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_6126,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5841,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5435,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5875,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_6143,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5661,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5900,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5974,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5751,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5360,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5520,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5508,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5038,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_6192,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5268,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_6091,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_6169,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5606,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_6032,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_6109,Emails sent to the subject instructor are routinely ignored for weeks.,Negative,Support,1
+FB_6010,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5184,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5056,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5425,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5388,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_6200,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5316,Unclear instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5829,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5157,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5276,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5672,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5543,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5748,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5089,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5400,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5946,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5341,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5290,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5837,Students are not happy with the sudden change in exam format.,Negative,Examination,1
+FB_5772,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5513,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5886,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5499,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5429,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5996,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5339,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5205,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5334,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5937,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5564,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_6049,The lecturer explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5852,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5001,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5878,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5365,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_6104,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_6118,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5022,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5688,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5506,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5621,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5635,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_6059,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5651,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_6056,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5735,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5980,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5264,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5994,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5805,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5210,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5194,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5607,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5932,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5549,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5086,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5308,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_6153,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5979,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5904,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5310,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5797,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5957,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5588,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_6015,The curriculum prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5871,The instructor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5003,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_6005,The faculty member explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5006,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5710,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5670,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5226,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5383,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5820,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5010,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5677,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_6080,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5284,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5873,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5985,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5440,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5213,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5061,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5692,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_6190,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_6185,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5402,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5610,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5152,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5497,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5634,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_6152,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5792,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5950,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5154,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5854,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_6172,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5164,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5655,The faculty member explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5616,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5336,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5376,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5847,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5961,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5548,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5414,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5026,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5333,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_6107,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_6123,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5324,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5511,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5907,The lecturer is truly approachable and responds to student emails within hours.,Positive,Support,5
+FB_5474,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5866,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5901,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_6026,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5699,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5103,The online submission portal crashed right before the homework deadline.,Negative,Support,1
+FB_5255,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5514,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5476,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5581,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5207,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5225,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5374,"The final grade consists of 40% assignments, 30% midterm, and 30% final test.",Neutral,Examination,3
+FB_5454,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5211,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_6137,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5369,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5437,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5294,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5448,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5028,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_6146,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5740,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5845,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5811,The teacher reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5092,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5910,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5880,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5278,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5956,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5218,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5525,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5649,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_6089,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5744,The instructor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5148,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5596,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5292,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5444,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5060,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5823,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5673,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5222,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5827,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5877,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_6084,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5158,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5415,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5597,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5591,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5523,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5371,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5926,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5737,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_6047,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5047,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5867,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_6003,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5118,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_6052,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5106,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5155,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5243,The instructor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5862,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5557,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5076,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_6184,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5242,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5754,I am not stressed at all because the faculty member provided excellent prep materials.,Positive,Teaching,5
+FB_5273,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5084,The instructor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5189,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5019,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5939,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5719,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5803,Students are not happy with the sudden change in exam format.,Negative,Examination,1
+FB_6029,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5769,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5407,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5997,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5009,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5193,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5533,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5112,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_6097,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_6011,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5245,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5809,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_6083,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_6155,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5798,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5094,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_6039,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5351,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5250,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5498,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5171,The campus study spaces and library resources made test preparation much smoother.,Positive,Library/Resources,5
+FB_5951,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5357,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5935,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5614,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5512,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5004,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5327,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_6130,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5628,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5064,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5840,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5190,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5784,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5575,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5851,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_6175,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5885,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5917,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5469,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_6161,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5272,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_6164,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5707,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5291,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5863,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5611,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_6142,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5887,The professor is super approachable and responds to student emails within hours.,Positive,Support,5
+FB_5032,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5456,The workload in this 3-credit module feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5671,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5487,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5540,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_6036,The teacher explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5928,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5665,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5236,Class materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5892,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_6148,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5475,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5618,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5942,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_6094,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5121,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5657,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5258,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5304,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5585,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_6001,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5385,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5695,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5452,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5482,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5111,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5790,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5971,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5627,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5819,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_6119,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5441,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5562,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5839,The workload in this 3-credit subject feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5478,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5217,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5807,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_5702,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5379,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5172,The instructor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5119,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5147,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5159,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5300,The online submission portal crashed right before the assignment deadline.,Negative,Support,1
+FB_5297,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5023,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_5801,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5921,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5642,The lecturer is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5958,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5536,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5838,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_6086,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5263,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5861,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5375,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5091,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5977,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_5464,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5301,The grading criteria for the term paper were truly vague and subjective.,Negative,Examination,1
+FB_5617,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5773,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5605,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5432,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5142,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5987,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_5730,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5531,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5439,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5419,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_6018,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5526,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5609,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5020,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_5359,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5406,Students are not happy with the sudden change in exam format.,Negative,Examination,1
+FB_5013,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5825,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5331,Emails sent to the course instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5318,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5770,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_6196,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_6087,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5781,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5599,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_6073,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5911,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5530,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5366,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5087,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_6028,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5325,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5527,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5697,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5206,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5524,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5625,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5667,Brilliant lectures! Faculty member always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_5853,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5195,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5267,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5423,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5377,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5075,We were tested on material that was never discussed in class or assigned in readings.,Negative,Examination,1
+FB_6096,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5846,The campus study spaces and library resources made final evaluation preparation much smoother.,Positive,Library/Resources,5
+FB_5277,Each problem set takes over 25 hours to complete; there is no time left for other courses.,Negative,Workload,1
+FB_6149,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5604,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5674,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5760,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5918,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5393,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5676,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5993,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5982,The midterm midterm covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5552,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5722,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5749,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5078,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_6176,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5704,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5286,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5280,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5477,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_6124,Students are not happy with the sudden change in exam format.,Negative,Examination,1
+FB_6099,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_6031,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_5998,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_6057,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5868,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5235,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_6041,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_6194,"The exam was not tough; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5314,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_6007,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5307,I cannot understand why the grading took four weeks without any updates.,Negative,Support,1
+FB_5622,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5342,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5682,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_5049,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5970,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5572,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5658,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5791,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_6000,I am not swamped at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5973,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_6064,Brilliant lectures! Professor always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_6167,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5952,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5298,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5669,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5826,The workload in this 3-credit class feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5914,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5689,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_6178,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5995,The lecturer explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5317,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5925,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5234,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_6046,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5908,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5485,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5433,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_6050,The professor is extremely approachable and responds to student emails within hours.,Positive,Support,5
+FB_5173,Lectures are recorded and uploaded to the student portal within 24 hours.,Neutral,Support,3
+FB_5834,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5714,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5011,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_6150,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5167,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5547,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_6012,Very engaging teaching style! Kept all students motivated even during morning lectures.,Positive,Teaching,5
+FB_6117,The weekly reading workload exceeds 150 pages of dense academic papers on top of coding labs.,Negative,Workload,1
+FB_5865,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5818,Having three heavy project deadlines and two midterms in the exact same 48 hours is impossible.,Negative,Workload,1
+FB_5870,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5017,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5812,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_6140,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5408,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1
+FB_5963,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_6129,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_5349,Confusing instructions on the final project caused our entire group to lose points unfairly.,Negative,Course Content,1
+FB_5102,"The exam was not brutal; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5884,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5470,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5153,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5808,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5472,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5663,The grading criteria for the term paper were extremely vague and subjective.,Negative,Examination,1
+FB_5623,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5943,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5372,Excellent balance between theoretical mathematics and practical engineering applications.,Positive,Course Content,5
+FB_6017,Course materials and lecture slides are well structured and easy to follow.,Positive,Course Content,5
+FB_5765,Brilliant lectures! Faculty member always connects academic theories with real-world industry case studies.,Positive,Teaching,5
+FB_6021,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5732,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5471,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5717,"Feedback on homework was detailed and constructive, helping me improve each week.",Positive,Teaching,5
+FB_5015,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5652,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5460,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5843,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5053,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_6133,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5059,The textbook recommendations and supplementary reading lists were top-notch.,Positive,Library/Resources,5
+FB_5507,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5139,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5181,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5810,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_6068,I am not stressed at all because the faculty member provided excellent prep materials.,Positive,Teaching,5
+FB_5646,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_5177,Emails sent to the curriculum instructor are routinely ignored for weeks.,Negative,Support,1
+FB_5842,I am not buried in tasks at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5783,The course syllabus was distributed on the first day of class as scheduled.,Neutral,Course Content,3
+FB_5948,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5789,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5271,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5793,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5594,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5162,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5556,Too many mandatory group meetings and simultaneous milestone submissions this month.,Negative,Workload,1
+FB_6069,The course prerequisite list includes calculus and introductory programming.,Neutral,Course Content,3
+FB_5299,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5638,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5537,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5340,I am not stressed at all because the professor provided excellent prep materials.,Positive,Teaching,5
+FB_5983,I do not feel stressed anymore thanks to the clear explanations in class.,Positive,Teaching,5
+FB_5954,Lab equipment is outdated and half the software licenses are expired.,Negative,Lab Work,1
+FB_5728,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5114,The midterm exam covered chapters 1 through 5 of the textbook.,Neutral,Examination,3
+FB_5705,The professor reads monotone slides without ever looking up or answering chat questions.,Negative,Teaching,1
+FB_6105,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_6198,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5098,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_6177,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5988,Office hour queues are two hours long and TA runs out of time before seeing half the students.,Negative,Support,1
+FB_5185,I am not stressed at all because the lecturer provided excellent prep materials.,Positive,Teaching,5
+FB_6116,I really enjoyed the hands-on lab sessions this semester; they made theoretical concepts easy to grasp.,Positive,Lab Work,5
+FB_5129,The pace of the class is erratic—rushing through hardest topics in the last ten minutes.,Negative,Teaching,1
+FB_5378,I am definitely not happy with the way this midterm was graded.,Negative,Examination,1
+FB_5897,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5629,The campus study spaces and library resources made exam preparation much smoother.,Positive,Library/Resources,5
+FB_6183,There is no practice exam provided despite repeated requests from students.,Negative,Examination,1
+FB_5786,The schedule for office hours was updated on the main dashboard.,Neutral,Support,3
+FB_5335,Office hours were incredibly helpful. The teaching assistants always took time to help us debug.,Positive,Support,5
+FB_5285,Group assignments encouraged great teamwork and problem-solving skills.,Positive,Course Content,5
+FB_5123,Five different assignments due on Sunday night while working part-time is completely unsustainable.,Negative,Workload,1
+FB_5934,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_6048,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5992,The weekly quizzes gave immediate feedback that helped me stay on track throughout the term.,Positive,Examination,5
+FB_5574,Weekly attendance is tracked using the digital portal at the start of class.,Neutral,Teaching,3
+FB_5700,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5787,Discussion forums are moderated by graduate teaching assistants.,Neutral,Support,3
+FB_5742,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_6121,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5363,Lecture slides are just copied directly from the textbook with zero additional explanation.,Negative,Teaching,1
+FB_6131,"The exam was not difficult; in fact, it was very fair and well designed.",Positive,Examination,5
+FB_5814,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5821,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5353,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5176,We are assigned new complex chapters right during midterms week with no extension.,Negative,Workload,1
+FB_5681,Continuous back-to-back assignments leave zero breathing room for revision or proper understanding.,Negative,Workload,1
+FB_5764,The campus study spaces and library resources made test preparation much smoother.,Positive,Library/Resources,5
+FB_5890,I am not overwhelmed at all now that the TA helped clarify the project roadmap.,Positive,Support,5
+FB_5404,The professor explains complex algorithms with great clarity and patience.,Positive,Teaching,5
+FB_5411,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_6156,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_6166,Textbook chapter summaries are provided at the end of each slide deck.,Neutral,Course Content,3
+FB_6034,The grading rubric was transparent and fair for all midterm projects.,Positive,Examination,5
+FB_5073,Homework is submitted via the online learning management system by Sunday midnight.,Neutral,Course Content,3
+FB_5105,Lab sessions are held every Thursday afternoon for two hours.,Neutral,Lab Work,3
+FB_5070,"Loved the practical coding assignments, they gave me confidence for upcoming software internships.",Positive,Course Content,5
+FB_5593,Impossible expectations: coding an entire web app from scratch in 3 days with no starter code.,Negative,Workload,1
+FB_5768,The workload in this 3-credit course feels like a full-time 12-credit program.,Negative,Workload,1
+FB_5096,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5836,I am not happy with how disorganized the professor is with homework deadlines.,Negative,Course Content,1
+FB_5083,"Teaching assistants took over a month to return our graded homework, leaving us blind for midterms.",Negative,Support,1
+FB_5214,"The final grade consists of 40% assignments, 30% midterm, and 30% final exam.",Neutral,Examination,3
+FB_5898,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_6145,Reference materials are available in the university library reserve section.,Neutral,Library/Resources,3
+FB_5848,The sheer volume of homework prevents me from sleeping more than four hours a night.,Negative,Workload,1

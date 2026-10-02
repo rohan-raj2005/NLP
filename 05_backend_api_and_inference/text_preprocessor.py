@@ -1,9 +1,12 @@
 """
 text_preprocessor.py - Domain-Specific NLP Preprocessing Pipeline
+Handles contraction expansion, negation preservation, educational abbreviation normalization,
+and token cleaning for student feedback and academic stress classification.
 """
 
 import re
 
+# Comprehensive contraction mapping
 CONTRACTIONS = {
     "can't": "cannot",
     "won't": "will not",
@@ -35,6 +38,7 @@ CONTRACTIONS = {
     "let's": "let us",
 }
 
+# Educational slang and abbreviations
 ACADEMIC_ABBREVIATIONS = {
     r"\bprof\b": "professor",
     r"\bprofs\b": "professors",
@@ -53,8 +57,10 @@ ACADEMIC_ABBREVIATIONS = {
     r"\bpsets\b": "problem sets",
 }
 
+# Essential sentiment and stress negations to strictly preserve
 NEGATION_WORDS = {"not", "no", "never", "cannot", "neither", "nor", "barely", "hardly", "without"}
 
+# Curated non-negation stopwords
 GENERAL_STOPWORDS = {
     "a", "about", "above", "after", "again", "against", "all", "am", "an", "and",
     "any", "are", "as", "at", "be", "because", "been", "before", "being", "below",
@@ -92,12 +98,20 @@ class TextPreprocessor:
         if not text or not isinstance(text, str):
             return ""
         
+        # 1. Expand contractions
         text = self.expand_contractions(text)
+        
+        # 2. Normalize academic domain terms
         text = self.normalize_academic_terms(text)
+        
+        # 3. Lowercase
         text = text.lower()
+        
+        # 4. Remove special noise characters but retain basic sentence flow
         text = re.sub(r'https?://\S+|www\.\S+', '', text)
         text = re.sub(r'[^\w\s\-\']', ' ', text)
         
+        # 5. Tokenize and filter standard non-negation stopwords
         tokens = text.split()
         if self.preserve_negations:
             filtered_tokens = [w for w in tokens if w not in GENERAL_STOPWORDS and len(w) > 1]
@@ -107,4 +121,18 @@ class TextPreprocessor:
         return " ".join(filtered_tokens)
 
     def transform_series(self, series):
+        """Processes a pandas Series of text entries."""
         return series.apply(self.clean_text)
+
+if __name__ == "__main__":
+    preprocessor = TextPreprocessor()
+    test_samples = [
+        "I'm not stressed at all, the prof was super helpful!",
+        "Can't handle 3 midterms and 2 psets in one week, feeling totally overwhelmed...",
+        "TA ignored my emails about the grading criteria.",
+        "I have given up on following these lectures."
+    ]
+    print("--- Text Preprocessor Verification ---")
+    for s in test_samples:
+        print(f"Original: {s}")
+        print(f"Cleaned : {preprocessor.clean_text(s)}\n")

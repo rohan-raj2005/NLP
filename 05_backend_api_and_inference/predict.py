@@ -10,14 +10,18 @@ import json
 import joblib
 import numpy as np
 
-# Add preprocessing module to path
-PREPROC_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "04_preprocessing_and_nlp_training"))
-if PREPROC_DIR not in sys.path:
-    sys.path.insert(0, PREPROC_DIR)
+# Add local and parent preprocessing paths
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+PREPROC_DIR = os.path.abspath(os.path.join(CURRENT_DIR, "..", "04_preprocessing_and_nlp_training"))
+for p in [CURRENT_DIR, PREPROC_DIR]:
+    if p not in sys.path:
+        sys.path.insert(0, p)
 
 from text_preprocessor import TextPreprocessor
 
-SAVED_MODELS_DIR = os.path.join(PREPROC_DIR, "saved_models")
+local_models = os.path.join(CURRENT_DIR, "saved_models")
+parent_models = os.path.join(PREPROC_DIR, "saved_models")
+SAVED_MODELS_DIR = local_models if os.path.exists(local_models) else parent_models
 
 COPING_STRATEGIES = {
     "High Stress": [

@@ -1,0 +1,13 @@
+{
+  "name": "academic-stress-backend-gateway",
+  "version": "1.0.0",
+  "description": "Node.js Express API gateway service for MindTrack AI",
+  "main": "express_server.js",
+  "scripts": {
+    "start": "node express_server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}

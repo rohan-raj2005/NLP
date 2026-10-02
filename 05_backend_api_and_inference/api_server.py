@@ -20,7 +20,9 @@ if CURRENT_DIR not in sys.path:
 from predict import AcademicStressPredictor, COPING_STRATEGIES
 
 FRONTEND_DIR = os.path.abspath(os.path.join(CURRENT_DIR, "..", "06_frontend_react_app"))
-DATA_PATH = os.path.abspath(os.path.join(CURRENT_DIR, "..", "03_dataset_collection_and_exploration", "data", "academic_stress_dataset.csv"))
+local_data = os.path.join(CURRENT_DIR, "data", "academic_stress_dataset.csv")
+parent_data = os.path.abspath(os.path.join(CURRENT_DIR, "..", "03_dataset_collection_and_exploration", "data", "academic_stress_dataset.csv"))
+DATA_PATH = local_data if os.path.exists(local_data) else parent_data
 
 START_TIME = time.time()
 PREDICTOR = None
@@ -164,6 +166,9 @@ class AcademicStressAPIHandler(SimpleHTTPRequestHandler):
             return
 
         self._send_json(404, {"error": f"Endpoint '{path}' not found."})
+
+# Vercel Serverless Function entry point alias
+handler = AcademicStressAPIHandler
 
 def run_server(host="127.0.0.1", port=8000):
     print("=" * 70)
